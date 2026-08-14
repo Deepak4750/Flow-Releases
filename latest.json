@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/Deepak4750/Flow-Releases/releases/download/v1.0.2/Flow-1.0.2.apk",
-  "notes": "Custom category filters, floating save, and category accents."
+  "versionCode": 6,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/Deepak4750/Flow-Releases/releases/download/v1.0.3/Flow-1.0.3.apk",
+  "notes": "Floating save while you edit, and a leave prompt for unsaved changes."
 }
