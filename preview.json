@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/Deepak4750/Flow-Releases/releases/download/v1.1.0/Flow-1.1.0.apk",
-  "notes": "Today and Progress home widgets, reminders that come back after a swipe until you complete them, saved custom categories, and a tap on Progress that opens Flow."
+  "versionCode": 26,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/Deepak4750/Flow-Releases/releases/download/v1.1.1/Flow-1.1.1.apk",
+  "notes": "A shorter update prompt, Today and Progress widgets, reminders that come back after a swipe until you complete them, and saved custom categories."
 }
