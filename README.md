@@ -4,7 +4,7 @@ A private, offline-first reminder companion for Android.
 
 Flow remembers what you decided matters, tells you what happens next, and never scolds you for what you missed.
 
-**Current stable release: [1.1.1](https://github.com/Deepak4750/Flow-Releases/releases/latest)**
+**Current stable release: [1.3.3](https://github.com/Deepak4750/Flow-Releases/releases/latest)**
 
 [Download Flow-1.1.1.apk](https://github.com/Deepak4750/Flow-Releases/releases/download/v1.1.1/Flow-1.1.1.apk) · [Source](https://github.com/Deepak4750/Flow-Android)
 
