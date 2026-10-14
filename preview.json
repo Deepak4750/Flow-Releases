@@ -1,6 +1,6 @@
 {
-  "versionCode": 417,
+  "versionCode": 418,
   "versionName": "1.3.3",
-  "apkUrl": "https://github.com/Deepak4750/Flow-Releases/releases/download/v1.3.3/Flow-1.3.3-build417.apk",
-  "notes": "Preview: Flow 1.3.3 (build 417). Fixes Flow closing as soon as it opens after an update, and installs from a link without Play Protect blocking it. Workout music song info now comes from the optional Flow Music Access add-on."
+  "apkUrl": "https://github.com/Deepak4750/Flow-Releases/releases/download/v1.3.3/Flow-1.3.3-build418.apk",
+  "notes": "Preview: Flow 1.3.3 (build 418). Restore your data from a backup file after reinstalling (Settings > Data, or Restore my data on the welcome screen)."
 }
