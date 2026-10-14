@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/Deepak4750/Flow-Releases/releases/download/v1.1.1/Flow-1.1.1.apk",
-  "notes": "A shorter update prompt, Today and Progress widgets, reminders that come back after a swipe until you complete them, and saved custom categories."
+  "versionCode": 415,
+  "versionName": "1.3.3",
+  "apkUrl": "https://github.com/Deepak4750/Flow-Releases/releases/download/v1.3.3/Flow-1.3.3-build415.apk",
+  "notes": "Preview: Flow 1.3.3 (build 415). Fixes Flow closing as soon as it opens after an update. Your tasks, water and workouts are kept."
 }
